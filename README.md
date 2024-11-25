@@ -1,1 +1,1 @@
-https://github.com/dimonyayo/rsschool-cv/blob/gh-pages/cv.md
+https://dimonyayo.github.io/rsschool-cv/
