@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dimonyayo.github.io/rsschool-cv/
